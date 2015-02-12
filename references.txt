@@ -1,0 +1,4 @@
+validator.w3.org/#validate_by_input
+jigsaw.w3.org/css-validator/#validate_by_input
+http://getbootstrap.com/css/
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference
