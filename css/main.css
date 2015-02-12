@@ -1,53 +1,49 @@
 * {
-    font-family: 'Lucida Grande', sans-serif;
-    font-weight: bold;
+	font-family: "Verdana", sans-serif;
+	font-weight: bold;
 }
 
 p {
-    color: #666666;
-    line-height: 2em;
-    font-size: 14px;
-    padding-top: 10px;
-    margin-top: 5px;
-    margin-bottom: 35px;
+	color: #666;
+	line-height: 200%;
+	font-size: 11px;
+	padding-top: 2%;
+	margin-top: 1%;
+	margin-bottom: 6%;
+	font-weight: bold;
 }
 
 h2 {
-    color: #f07c17;
+	color: #f07c17;
 }
 
 h1 {
-    color: #666666;
-    margin-top: 50px;
-    margin-left: 130px;
-    font-size: 44px;
-    padding-left: 10px;
+	color: #666;
+	margin-top: 50px;
+	margin-left: 130px;
+	font-size: 44px;
+	padding-left: 10px;
 }
 
 ul {
-    line-height: 2em;
-    padding-left: 50px;
-    color: #666666;
-    margin-top: 30px;
+	line-height: 200%;
+	padding-left: 10%;
+	color: #666;
+	margin-top: 10%;
 }
 
 img {
-    min-width: 100%;
-    padding-top: 20px;
-    padding-bottom: 6px;
+	min-width: 100%;
+	padding-top: 5%;
+	padding-bottom: 20%;
 }
 
-.main_features {
-    border-style: solid;
-    border-color: #cccccc;
-    border-width: 1px;
-    padding-left: 20px;
-    padding-bottom: 35px;
-    padding-right: 30px;
-    padding-top: 10px;
-    margin-top: 20px;
+.main-features {
+	border: 1px solid #ccc;
+	padding: 10px 9% 35px 1%;
+	margin-top: 20px;
 }
 
-.day_heading {
-    font-size: 20px;
+.day-heading {
+	font-size: 20px;
 }
